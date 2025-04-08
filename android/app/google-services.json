@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948735354770",
+    "project_id": "to-yudi",
+    "storage_bucket": "to-yudi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948735354770:android:e78a8229b5eda78a55434b",
+        "android_client_info": {
+          "package_name": "com.example.to_yudi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDidOKQoSNguUvZGIZGLj3BIKMMHBLoS6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

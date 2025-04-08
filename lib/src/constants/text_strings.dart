@@ -1,0 +1,15 @@
+const String tAppName = "Yudi";
+const String tAppTagLine = "Where do we \nreport this?";
+const String tWelcome = "Our City, \nMade Better \nby Us.";
+const String tStarted = "Get Started";
+const String tLogin = "Log in";
+const String tRegister = "Register";
+const String tSignUp = "Register now";
+const String tLog = "Login now";
+const String tEmail = "Email";
+const String tReg = "Sign Up";
+const String tPassword = "Password";
+const String tDontHaveAccount = "Don't have an account?";
+const String tHaveAccount = "Already have an account?";
+const String tName = "Name";
+const String tConfirmPass = "Confirm Password";

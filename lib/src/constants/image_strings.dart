@@ -1,0 +1,13 @@
+const String tSplashImage = "assets/images/splash-screen-image.png";
+const String tWelcomeImage = "assets/images/welcome-image.png";
+const String tLogo = "assets/images/yudi-logo.png";
+const String tGoogleIcon = "assets/images/google-icon.png";
+const String tLoginImage = "assets/images/login-image.png";
+const String tRegisterImage = "assets/images/register-image.png";
+const String tOverlay = "assets/images/overlay-bg.png";
+const String tRecognition = "assets/images/recognition-image.png";
+const String tRegisterDash = "assets/images/register-image.png";
+const String tReport = "assets/images/report-image.png";
+const String tReviews = "assets/images/reviews-image.png";
+const String tStopLight = "assets/images/stoplight-image.png";
+const String tMaps = "assets/images/maps-image.png";
